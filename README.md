@@ -1,37 +1,134 @@
-## Welcome to GitHub Pages
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="generator" content="Matrix Y2K from van IJperen Software Inc. - >>http://www.crystalfibers.com">
+<style type='text/css'><!--
+select { width: 100px; }
 
-You can use the [editor on GitHub](https://github.com/Franklis/Lijst/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+div#wrap {
+width: 60%;
+margin: 0 auto;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+div.dropdown {
+width: 110%;
+background: green;
+border: 5px inset orange;
+padding: 1% 0;
+}
 
-### Markdown
+form {
+display: inline;
+padding: 3%;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+select {
+text-align: center;
+font-family: verdana, arial, 'times new roman' serif, sans-serif;
+font-weight: 600;
+color: green;
+background: orange;
+}
 
-```markdown
-Syntax highlighted code block
+option {
+text-align: left;
+}
+--></style>
+</head>
+<body>
+<div id="wrap">
 
-# Header 1
-## Header 2
-### Header 3
+<div class="dropdown">
 
-- Bulleted
-- List
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>AA</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>AFMA</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>AMMA</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
 
-### Jekyll Themes
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>BAD</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Franklis/Lijst/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>DSEC</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>MSTA</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
+
+<script type="text/javascript">
+function download(d) {
+        if (d == 'Select document') return;
+        window.location = 'https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf';
+}
+</script>
+ 
+<select name="download" onChange="download(this.value)">
+<option>OFMA</option>
+<option value="https://github.com/Franklis/Kansen---Schatten/blob/master/Doorstroom.pdf">Doorstroming</option>
+</select>
